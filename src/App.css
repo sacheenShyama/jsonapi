@@ -1,0 +1,29 @@
+
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+
+  height: 100vh;
+  width: 100%;
+  /* background: gray; */
+  border: 5px solid red;
+  /* overflow: hidden; */
+}
+
+
+.sender{
+  height: 62px;
+  width: 100%;
+  background: #f0f2f5;
+  padding:8px 20px 8px 20px
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
