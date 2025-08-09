@@ -1,0 +1,216 @@
+{
+    "employee":[ 
+         {
+    "createdAt": "2025-08-07T15:42:13.812Z",
+    "name": "Jon Goyette",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/18.jpg",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "1"
+  },
+  {
+    "createdAt": "2025-08-07T00:20:04.869Z",
+    "name": "Louis Gottlieb",
+    "avatar": "https://avatars.githubusercontent.com/u/77400462",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "2"
+  },
+  {
+    "createdAt": "2025-08-07T02:35:06.166Z",
+    "name": "Bernadette Gulgowski",
+    "avatar": "https://avatars.githubusercontent.com/u/34769466",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "3"
+  },
+  {
+    "createdAt": "2025-08-07T14:57:17.570Z",
+    "name": "Marian Leuschke",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/46.jpg",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "4"
+  },
+  {
+    "createdAt": "2025-08-07T19:02:37.031Z",
+    "name": "Ryan Quigley",
+    "avatar": "https://avatars.githubusercontent.com/u/97754596",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "5"
+  },
+  {
+    "createdAt": "2025-08-07T15:00:11.021Z",
+    "name": "Samantha Gutmann",
+    "avatar": "https://avatars.githubusercontent.com/u/65398478",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "6"
+  },
+  {
+    "createdAt": "2025-08-07T12:44:17.739Z",
+    "name": "Lewis Jenkins",
+    "avatar": "https://avatars.githubusercontent.com/u/98077983",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "7"
+  },
+  {
+    "createdAt": "2025-08-07T14:25:22.859Z",
+    "name": "Rose Huels",
+    "avatar": "https://avatars.githubusercontent.com/u/74872848",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "8"
+  },
+  {
+    "createdAt": "2025-08-07T05:30:32.523Z",
+    "name": "Anna Satterfield PhD",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/83.jpg",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "9"
+  },
+  {
+    "createdAt": "2025-08-07T19:05:11.249Z",
+    "name": "Mr. Delbert DuBuque",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/6.jpg",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "10"
+  },
+  {
+    "createdAt": "2025-08-07T21:37:07.738Z",
+    "name": "Maureen Mueller III",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/65.jpg",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "11"
+  },
+  {
+    "createdAt": "2025-08-07T08:22:36.455Z",
+    "name": "Amelia Cremin",
+    "avatar": "https://avatars.githubusercontent.com/u/36590234",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "12"
+  },
+  {
+    "createdAt": "2025-08-07T16:36:12.379Z",
+    "name": "Travis Cronin Jr.",
+    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/53.jpg",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "13"
+  },
+  {
+    "createdAt": "2025-08-07T16:46:19.593Z",
+    "name": "Dr. Jana Borer",
+    "avatar": "https://avatars.githubusercontent.com/u/17301989",
+    "email": "Invalid faker method - random.word",
+    "role": "Invalid faker method - random.word",
+    "status": "Invalid faker method - random.word",
+    "department": "Invalid faker method - random.word",
+    "id": "14"
+  }],
+    "user":[
+        {
+            "id":"1",
+            "name":"Sachin",
+            "email":"sachin@gmail.com",
+            "role":"Manager",
+            "password":"sachin123"
+        }
+    ],
+    "leaveRequest":[
+        {
+    "createdAt": "2025-08-07T00:06:58.392Z",
+    "employee": "Rochelle Cartwright",
+    "dates": "01/01/2025 to 05/01/2025",
+    "status": "Pending",
+    "id": "1"
+  },
+  {
+    "createdAt": "2025-08-07T12:17:33.776Z",
+    "employee": "Regina Bauch",
+    "dates": "20/01/2025 to 23/01/2025",
+    "status": "Rejected",
+    "id": "2"
+  },
+  {
+    "createdAt": "2025-08-07T23:09:55.858Z",
+    "employee": "Antonio Runolfsson",
+    "dates": "03/05/2025 to 10/05/2025",
+    "status": "Accepted",
+    "id": "3"
+  },
+  {
+    "createdAt": "2025-08-07T16:02:55.123Z",
+    "employee": "Dr. Eileen Ernser",
+   "dates": "01/01/2025 to 05/01/2025",
+    "status": "Pending",
+    "id": "4"
+  },
+  {
+    "createdAt": "2025-08-07T00:39:01.511Z",
+    "employee": "Dr. Bobby Maggio",
+   "dates": "01/01/2025 to 05/01/2025",
+    "status": "Pending",
+    "id": "5"
+  },
+  {
+    "createdAt": "2025-08-07T20:35:31.319Z",
+    "employee": "Larry Barrows",
+  "dates": "01/01/2025 to 05/01/2025",
+    "status": "Pending",
+    "id": "6"
+  },
+  {
+    "createdAt": "2025-08-07T17:17:20.504Z",
+    "employee": "Mr. Colin Abbott",
+"dates": "01/01/2025 to 05/01/2025",
+    "status": "Pending",
+    "id": "7"
+  },
+  {
+    "createdAt": "2025-08-07T04:48:44.215Z",
+    "employee": "Nancy Kutch",
+  "dates": "01/01/2025 to 05/01/2025",
+    "status": "Pending",
+    "id": "8"
+  },
+  {
+    "createdAt": "2025-08-07T07:10:26.987Z",
+    "employee": "Tamara Schoen",
+  "dates": "01/01/2025 to 05/01/2025",
+    "status": "Pending",
+    "id": "9"
+  }]
+}
